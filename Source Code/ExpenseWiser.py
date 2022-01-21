@@ -36,11 +36,11 @@ def about():
 
     abt_label = Label(abt, text='About the Developer',font=('Comic Sans MS', 25))
     abt_label.grid(row=0,column=0)
-    abt_label = Label(abt, text='Name : Suman De',font=('Rosewood Std Regular', 20))
+    abt_label = Label(abt, text='Name : Suman De',font=('Comic Sans MS', 20))
     abt_label.grid(row=1,column=0)
-    abt_label = Label(abt, text='Class : XII G',font=('Rosewood Std Regular', 20))
+    abt_label = Label(abt, text='Class : XII G',font=('Comic Sans MS', 20))
     abt_label.grid(row=2,column=0)
-    abt_label = Label(abt, text='Roll No.: 35',font=('Rosewood Std Regular', 20))
+    abt_label = Label(abt, text='Roll No.: 35',font=('Comic Sans MS', 20))
     abt_label.grid(row=3,column=0)
 
 
